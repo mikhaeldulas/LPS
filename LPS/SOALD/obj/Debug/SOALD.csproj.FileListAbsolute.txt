@@ -1,0 +1,7 @@
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\bin\Debug\SOALD.exe.config
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\bin\Debug\SOALD.exe
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\bin\Debug\SOALD.pdb
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\obj\Debug\SOALD.csproj.AssemblyReference.cache
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\obj\Debug\SOALD.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\obj\Debug\SOALD.exe
+C:\Users\mikel\Downloads\LPS\LPS\SOALD\obj\Debug\SOALD.pdb

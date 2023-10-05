@@ -1,0 +1,7 @@
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\bin\Debug\SOALC.exe.config
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\bin\Debug\SOALC.exe
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\bin\Debug\SOALC.pdb
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\obj\Debug\SOALC.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\obj\Debug\SOALC.exe
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\obj\Debug\SOALC.pdb
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALC\obj\Debug\SOALC.csproj.AssemblyReference.cache

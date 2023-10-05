@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\**" />
+    <Compile Remove="Views\CompanyModels\**" />
+    <Compile Remove="Views\Company\**" />
+    <Compile Remove="Views\Home\**" />
+    <Compile Remove="Views\Key\**" />
+    <Compile Remove="Views\Role\**" />
+    <Compile Remove="Views\Status\**" />
+    <Compile Remove="Views\User\**" />
+    <Content Remove="Services\**" />
+    <Content Remove="Views\CompanyModels\**" />
+    <Content Remove="Views\Company\**" />
+    <Content Remove="Views\Home\**" />
+    <Content Remove="Views\Key\**" />
+    <Content Remove="Views\Role\**" />
+    <Content Remove="Views\Status\**" />
+    <Content Remove="Views\User\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <EmbeddedResource Remove="Views\CompanyModels\**" />
+    <EmbeddedResource Remove="Views\Company\**" />
+    <EmbeddedResource Remove="Views\Home\**" />
+    <EmbeddedResource Remove="Views\Key\**" />
+    <EmbeddedResource Remove="Views\Role\**" />
+    <EmbeddedResource Remove="Views\Status\**" />
+    <EmbeddedResource Remove="Views\User\**" />
+    <None Remove="Services\**" />
+    <None Remove="Views\CompanyModels\**" />
+    <None Remove="Views\Company\**" />
+    <None Remove="Views\Home\**" />
+    <None Remove="Views\Key\**" />
+    <None Remove="Views\Role\**" />
+    <None Remove="Views\Status\**" />
+    <None Remove="Views\User\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+   
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    
+  </ItemGroup>
+
+
+
+</Project>

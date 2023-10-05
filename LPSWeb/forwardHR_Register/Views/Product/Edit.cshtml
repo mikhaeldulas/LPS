@@ -1,0 +1,48 @@
+﻿@model LPSWeb.Models.ProductsModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_View.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="id" />
+            <div class="form-group">
+                <label asp-for="kode_barang" class="control-label"></label>
+                <input asp-for="kode_barang" class="form-control" />
+                <span asp-validation-for="kode_barang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nama_barang" class="control-label"></label>
+                <input asp-for="nama_barang" class="form-control" />
+                <span asp-validation-for="nama_barang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="jumlah_barang" class="control-label"></label>
+                <input asp-for="jumlah_barang" class="form-control" />
+                <span asp-validation-for="jumlah_barang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tanggal" class="control-label"></label>
+                <input asp-for="tanggal" class="form-control" />
+                <span asp-validation-for="tanggal" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

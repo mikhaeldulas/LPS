@@ -1,0 +1,7 @@
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\bin\Debug\SOALB.exe.config
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\bin\Debug\SOALB.exe
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\bin\Debug\SOALB.pdb
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\obj\Debug\SOALB.csproj.AssemblyReference.cache
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\obj\Debug\SOALB.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\obj\Debug\SOALB.exe
+C:\Users\WINDOWS10NEW83\source\repos\LPS\SOALB\obj\Debug\SOALB.pdb

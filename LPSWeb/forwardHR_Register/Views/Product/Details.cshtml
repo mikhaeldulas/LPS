@@ -1,0 +1,45 @@
+﻿@model LPSWeb.Models.ProductsModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_View.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    @Html.HiddenFor(model => model.id)
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.kode_barang)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.kode_barang)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.nama_barang)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.nama_barang)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.jumlah_barang)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.jumlah_barang)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.tanggal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.tanggal)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

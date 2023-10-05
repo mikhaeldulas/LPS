@@ -1,0 +1,7 @@
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\bin\Debug\SOALE.exe.config
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\bin\Debug\SOALE.exe
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\bin\Debug\SOALE.pdb
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\obj\Debug\SOALE.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\obj\Debug\SOALE.exe
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\obj\Debug\SOALE.pdb
+C:\Users\mikel\Downloads\LPS\LPS\SOALE\obj\Debug\SOALE.csproj.AssemblyReference.cache
